@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer:  you dont have to wait for the page to continously refresh to get new information from the server, everything is built using a single page in the code and is linked to different parts to display different items. page content doesnt have to be redownlaoded with every click. 
 
 ## Project Set Up
 
